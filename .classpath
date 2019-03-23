@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/craftbukkit-1.10-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/EffectLib-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/HikariCP-2.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/RPGCore-0.0.1-SNAPSHOT-shaded(JAN SQL).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Burgess/Desktop/RPGLibs/votifier-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

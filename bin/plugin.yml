@@ -1,0 +1,7 @@
+name: RPG
+main: me.customscripts.rpg.RPG
+version: 0.1
+description: RPG.
+author: CustomScripts
+depends: [Votifier, RPGCore]
+commands:

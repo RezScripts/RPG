@@ -1,0 +1,7 @@
+name: RPG
+main: me.rezscripts.rpg.RPG
+version: 0.1
+description: RPG
+author: RezScripts
+depends: [Votifier, RPGCore]
+commands:
